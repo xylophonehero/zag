@@ -1,5 +1,12 @@
 # @zag-js/number-input
 
+## 0.1.4
+
+### Patch Changes
+
+- [`f4d2cf6`](https://github.com/chakra-ui/zag/commit/f4d2cf6d603268adc0ab5d99ffacc5cba6906a65) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Make the scrubberPoint type internal
+
 ## 0.1.3
 
 ### Patch Changes
